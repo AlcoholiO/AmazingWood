@@ -52,11 +52,9 @@ Once you've used the command above, to install the listed gems, a gemfile.lock f
 #### 7. Start Netlify CMS Server
 From your newly cloned repo working in local directory run the following command, for each user you wish to add (you will be asked for an email, a name and a password):
 ```
-netlify-git-api users add
+$ Next we need to start Netlify CMS with the following command:
 ```
-Next we need to start Netlify CMS with the following command:
-```
-netlify-git-api serve
+$ netlify-git-api serve
 ```
 This will start the Netlify CMS Server.
 
@@ -68,7 +66,14 @@ You can log in here and create a new post:
 #### 8. Build and Watch 
 From the root of your site, run the following command to build your site using bundle
 ```
-bundle exec jekyll server --watch
+$ bundle exec jekyll server --watch
 ```
-Now you can navigate to check out your site on:
+Now you can navigate to check out your site and the post you just created through this link:
 [https://localhost:4000](https://localhost:4000)
+
+#### 9. Push to Github
+Once you're done fiddling with the local version and maybe adding some posts, we should try out this netlify-cms online.
+In the terminal window/command prompt, CD to the root folder of your site and start by entering this command, to check where the project is pushed to:
+```
+$ git remote -v
+```
