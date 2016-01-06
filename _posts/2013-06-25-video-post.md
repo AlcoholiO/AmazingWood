@@ -1,5 +1,5 @@
 ---
-title: "Haro Demonstration Video's"
+title: Embedded Video Demonstration
 categories: articles
 cmsUserSlug: ""
 date: 2013-06-25T12:00:00.000Z
