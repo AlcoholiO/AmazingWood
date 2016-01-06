@@ -11,7 +11,7 @@ Video embeds are responsive and scale with the width of the main content block.
 
 Here are a couple of Sample Video's:
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=JCrSAzMyUgA" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JSTZILcmjHs" frameborder="0"> </iframe>
 
-And here's another nice Haro Video:
-<iframe width="560" height="315" src="//www.youtube.com/embed/oaIUtJgqgK8" frameborder="0"> </iframe>
+And here's another nice Video:
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=JCrSAzMyUgA" frameborder="0"> </iframe>
